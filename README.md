@@ -41,4 +41,11 @@ $$
 
 </div>
 
-<!-- 右键→查看源代码，就为了看这个？真有你的。 -->
+<br><br><br>
+<details>
+<summary>　</summary>
+
+<pre>为了找这个你可真是煞费苦心。
+回去写代码。</pre>
+
+</details>

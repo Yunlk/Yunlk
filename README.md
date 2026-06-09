@@ -6,7 +6,7 @@
 🎮 making a galgame · 📟 learning LABVIEW & STM32
 
 <!-- quote-start -->
-> *"数据手册第 37 页有答案，但没人看到第 37 页"*
+> *"该睡了，但 commit 还没 push"*
 <!-- quote-end -->
 
 **Languages**

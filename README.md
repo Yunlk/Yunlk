@@ -15,11 +15,7 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?flat&logo=git&logoColor=white)
 
-**Currently**
-
-Embedded · Algorithms · ACM
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yunlk&layout=compact&theme=dark)
+<img src="assets/terminal.svg" alt="Terminal" width="540">
 
 **maimai DX Rating**
 

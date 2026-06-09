@@ -41,11 +41,5 @@ $$
 
 </div>
 
-<br><br><br>
-<details>
-<summary>　</summary>
-
-<pre>为了找这个你可真是煞费苦心。
-回去写代码。</pre>
-
-</details>
+<br>
+<span title="为了找这个你可真是煞费苦心。回去写代码。">🔎</span>

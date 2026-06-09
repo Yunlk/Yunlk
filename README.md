@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/typing.svg" alt="Hi" width="360">
+## Hi 👋
 
 **Languages**
 

@@ -17,6 +17,9 @@
 
 Embedded · Algorithms · ACM
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yunlk&layout=compact&theme=dark)
+
+**maimai DX Rating**
 
 <img src="https://dxrating.luoling.moe/api/genImage/yun5k" alt="舞萌 DX Rating" />
 

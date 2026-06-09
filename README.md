@@ -17,7 +17,6 @@
 
 Embedded · Algorithms · ACM
 
-![Luogu](https://luogu-stats-card.vercel.app/api?username=Yunlkkkkk&theme=dark&show_icons=true)
 
 <img src="https://dxrating.luoling.moe/api/genImage/yun5k" alt="舞萌 DX Rating" />
 

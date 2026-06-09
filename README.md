@@ -19,6 +19,10 @@
 ![Vim](https://img.shields.io/badge/Vim-019733?flat&logo=vim&logoColor=white)
 ![Keil](https://img.shields.io/badge/Keil-394EFF?flat&logo=arm&logoColor=white)
 
+$$
+X_k = \sum x_n \cdot e^{-2\pi i k n / N}
+$$
+
 **maimai DX Rating**
 
 <img src="https://dxrating.luoling.moe/api/genImage/yun5k" alt="舞萌 DX Rating" />

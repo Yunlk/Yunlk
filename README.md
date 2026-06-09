@@ -2,6 +2,8 @@
 
 ## Hi 👋
 
+📫 yunlk@foxmail.com
+
 **Languages**
 
 ![C](https://img.shields.io/badge/C-555555?flat&logo=c&logoColor=white)

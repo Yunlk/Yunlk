@@ -4,6 +4,7 @@
 
 📫 yunlk@foxmail.com
 🎮 making a galgame · 📟 learning LABVIEW & STM32
+🐒 recovering vibecoder
 
 <!-- quote-start -->
 > *"该睡了，但 commit 还没 push"*

@@ -1,0 +1,50 @@
+name: Random Quote Updater
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-quote:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Pick random quote and update README
+        run: |
+          import random, re
+
+          with open('quotes.txt', 'r', encoding='utf-8') as f:
+              quotes = [q.strip() for q in f if q.strip()]
+
+          if not quotes:
+              print("No quotes found, exiting.")
+              exit(0)
+
+          quote = random.choice(quotes)
+
+          with open('README.md', 'r', encoding='utf-8') as f:
+              content = f.read()
+
+          new_block = f'<!-- quote-start -->\n> *"{quote}"*\n<!-- quote-end -->'
+          content = re.sub(
+              r'<!-- quote-start -->.*?<!-- quote-end -->',
+              new_block,
+              content,
+              flags=re.DOTALL
+          )
+
+          with open('README.md', 'w', encoding='utf-8') as f:
+              f.write(content)
+
+          print(f'Updated quote: {quote}')
+        shell: python
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git diff --quiet || (git add README.md && git commit -m "📜 update random quote" && git push)

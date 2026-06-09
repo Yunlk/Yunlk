@@ -5,6 +5,10 @@
 📫 yunlk@foxmail.com
 🎮 making a galgame · 📟 learning LABVIEW & STM32
 
+<!-- quote-start -->
+> *"摸鱼是生产力的一部分"*
+<!-- quote-end -->
+
 **Languages**
 
 ![C](https://img.shields.io/badge/C-555555?flat&logo=c&logoColor=white)
@@ -35,3 +39,5 @@ $$
 </a>
 
 </div>
+
+<!-- 右键→查看源代码，就为了看这个？真有你的。 -->

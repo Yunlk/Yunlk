@@ -7,7 +7,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"该睡了，但 commit 还没 push"*
+> *"debug 三小时，发现是分号全角"*
 <!-- quote-end -->
 
 **Languages**

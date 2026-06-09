@@ -3,6 +3,7 @@
 ## Hi 👋
 
 📫 yunlk@foxmail.com
+🎮 making a galgame · 📟 learning LABVIEW & STM32
 
 **Languages**
 

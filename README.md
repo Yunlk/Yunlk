@@ -8,6 +8,7 @@
 <!-- quote-start -->
 > *"摸鱼是生产力的一部分"*
 <!-- quote-end -->
+[🔄 换一句](https://github.com/Yunlk/Yunlk/actions/workflows/quote-updater.yml)
 
 **Languages**
 

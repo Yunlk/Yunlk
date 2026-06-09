@@ -1,6 +1,6 @@
 <div align="center">
 
-## Hi 👋
+<img src="assets/typing.svg" alt="Hi" width="360">
 
 **Languages**
 
@@ -14,8 +14,6 @@
 **Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?flat&logo=git&logoColor=white)
-
-<img src="assets/typing.svg" alt="typing" width="480">
 
 **maimai DX Rating**
 

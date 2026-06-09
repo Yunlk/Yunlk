@@ -1,71 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="140" viewBox="0 0 480 140">
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="100" viewBox="0 0 360 100">
   <defs>
     <style>
-      /* Dark mode (default) */
       .txt { fill: #e6edf3; }
-      .dot { fill: #8b949e; }
       .hl  { fill: #ff79c6; }
-      .gr  { fill: #2ea043; }
 
-      /* Light mode */
       @media (prefers-color-scheme: light) {
         .txt { fill: #1f2328; }
-        .dot { fill: #656d76; }
         .hl  { fill: #8250df; }
-        .gr  { fill: #1a7f37; }
-        .cu  { fill: #0969da; }
       }
 
       @keyframes blink {
         50% { opacity: 0; }
       }
-      @keyframes fadeIn {
-        from { opacity: 0; }
-        to { opacity: 1; }
-      }
 
-      .cr { animation: blink 0.65s step-end 5.5s infinite; }
-      .cu { fill: #50fa7b; }
-      .l1 { animation: fadeIn 0.01s 0.3s both; }
-      .l2 { animation: fadeIn 0.01s 1.5s both; }
-      .l3 { animation: fadeIn 0.01s 3.5s both; }
-
-      .tp { font-family: 'Courier New', Consolas, 'Liberation Mono', monospace; font-size: 16px; }
+      .cr { animation: blink 0.65s step-end 2.5s infinite; }
+      .tp { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 28px; }
     </style>
 
-    <clipPath id="c1"><rect height="24"><animate attributeName="width" from="0" to="110" dur="0.8s" begin="0.3s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/></rect></clipPath>
-    <clipPath id="c2"><rect height="24"><animate attributeName="width" from="0" to="460" dur="1.2s" begin="1.5s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/></rect></clipPath>
-    <clipPath id="c3"><rect height="24"><animate attributeName="width" from="0" to="440" dur="1.2s" begin="3.5s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/></rect></clipPath>
+    <clipPath id="c1"><rect height="42"><animate attributeName="width" from="0" to="320" dur="1.2s" begin="0.2s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/></rect></clipPath>
   </defs>
 
-  <g transform="translate(0, 16)">
-    <!-- Line 1: Name -->
-    <text class="tp l1" y="0" font-weight="bold" font-size="22" clip-path="url(#c1)">
-      <tspan class="hl">yunlk</tspan>
-    </text>
+  <text class="tp txt" x="180" y="55" text-anchor="middle" clip-path="url(#c1)">Hi 👋 I'm <tspan class="hl">Yunlk</tspan></text>
 
-    <!-- Line 2: Skills -->
-    <text class="tp l2" y="44" clip-path="url(#c2)">
-      <tspan class="hl">C</tspan> <tspan class="dot">·</tspan>
-      <tspan class="hl">C++</tspan> <tspan class="dot">·</tspan>
-      <tspan class="hl">HolyC</tspan> <tspan class="dot">·</tspan>
-      <tspan class="hl">Brainfuck</tspan> <tspan class="dot">·</tspan>
-      <tspan class="hl">LaTeX</tspan> <tspan class="dot">·</tspan>
-      <tspan class="hl">Md</tspan>
-    </text>
-
-    <!-- Line 3: Interests -->
-    <text class="tp l3" y="84" clip-path="url(#c3)">
-      <tspan class="gr">Embedded</tspan>
-      <tspan class="txt"> · </tspan>
-      <tspan class="gr">Algorithms</tspan>
-      <tspan class="txt"> · </tspan>
-      <tspan class="gr">ACM</tspan>
-      <tspan class="txt"> · </tspan>
-      <tspan class="gr">maimai DX</tspan>
-    </text>
-
-    <!-- Cursor -->
-    <text class="tp cr cu" x="0" y="120">_</text>
-  </g>
+  <text class="tp txt cr" x="180" y="55" text-anchor="middle" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="1.5s" fill="freeze"/>
+    <tspan>|</tspan>
+  </text>
 </svg>

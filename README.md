@@ -20,7 +20,7 @@
 ![Keil](https://img.shields.io/badge/Keil-394EFF?flat&logo=arm&logoColor=white)
 
 $$
-X_k = \sum x_n \cdot e^{-2\pi i k n / N}
+X_k = \sum x_n \cdot e^{\frac{-2 \pi i k n }{ N}}
 $$
 
 **maimai DX Rating**

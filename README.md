@@ -6,7 +6,7 @@
 🎮 making a galgame · 📟 learning LABVIEW & STM32
 
 <!-- quote-start -->
-> *"编译过了就别动它"*
+> *"数据手册第 37 页有答案，但没人看到第 37 页"*
 <!-- quote-end -->
 [🔄 换一句](https://github.com/Yunlk/Yunlk/actions/workflows/quote-updater.yml)
 

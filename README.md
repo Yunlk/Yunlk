@@ -7,7 +7,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"debug 三小时，发现是分号全角"*
+> *"FFT 都写了，还有什么做不出来"*
 <!-- quote-end -->
 
 **Languages**

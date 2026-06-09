@@ -19,8 +19,4 @@
 
 <img src="https://dxrating.luoling.moe/api/genImage/yun5k" alt="舞萌 DX Rating" />
 
-**TODO**
-
-- [ ] galgame 创作中
-
 </div>

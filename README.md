@@ -9,27 +9,6 @@
 > *"数据手册第 37 页有答案，但没人看到第 37 页"*
 <!-- quote-end -->
 
-<table align="center"><tr>
-<td style="vertical-align:top">
-<pre style="color:#7dcfff;line-height:1.2;margin:0;border:none;padding:0">
-                   -`
-                  .o+`
-                 `ooo/
-                `+oooo:
-               `+oooooo:
-</pre>
-</td>
-<td style="vertical-align:top;padding-left:12px">
-<pre style="line-height:1.2;margin:0;border:none;padding:0">
-<span style="color:#7dcfff">yunlk</span><span style="color:#c0caf5">@arch</span>
-<span style="color:#c0caf5">OS:</span> Arch Linux
-<span style="color:#c0caf5">Shell:</span> zsh · <span style="color:#c0caf5">WM:</span> Hyprland
-<span style="color:#c0caf5">Terminal:</span> kitty
-<span style="color:#9ece6a">Uptime: 比 Win11 稳 · CPU: 99% idle</span>
-</pre>
-</td>
-</tr></table>
-
 **Languages**
 
 ![C](https://img.shields.io/badge/C-555555?flat&logo=c&logoColor=white)

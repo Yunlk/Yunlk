@@ -30,6 +30,12 @@
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?flat&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?flat&logo=vmware&logoColor=white)
 
+**WakaTime** (coding stats)
+
+<a href="https://wakatime.com/@Yunlk">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Yunlk" alt="WakaTime Stats" width="480" />
+</a>
+
 $$
 X_k = \sum x_n \cdot e^{\frac{-2 \pi i k n }{ N}}
 $$

@@ -9,65 +9,26 @@
 > *"数据手册第 37 页有答案，但没人看到第 37 页"*
 <!-- quote-end -->
 
-<br>
-
-<table align="center"><tr><td>
-<table cellpadding="0" cellspacing="0" style="border-collapse:collapse">
-  <tr>
-    <td style="background:#16161e;padding:6px 12px;border-radius:6px 6px 0 0;border:1px solid #1f2335">
-      <span style="font-size:9px;line-height:1">🔴&nbsp;🟡&nbsp;🟢</span>
-      <span style="color:#565f89;font-size:11px;font-family:monospace;margin-left:8px">yunlk@arch:~</span>
-    </td>
-  </tr>
-  <tr>
-    <td style="background:#1a1b26;padding:12px 14px;border-radius:0 0 6px 6px;border:1px solid #1f2335;border-top:none">
-      <table cellpadding="0" cellspacing="0" style="border-collapse:collapse">
-        <tr>
-          <td style="vertical-align:top;padding:0">
-<pre style="background:transparent;color:#7dcfff;font-size:10px;line-height:1.15;margin:0;border:none;padding:0">
+<table align="center"><tr>
+<td style="vertical-align:top">
+<pre style="color:#7dcfff;line-height:1.2;margin:0;border:none;padding:0">
                    -`
                   .o+`
                  `ooo/
                 `+oooo:
                `+oooooo:
-               -+oooooo+:
-             `/:-:++oooo+:
-            `/++++/+++++++:
-           `/++++++++++++++:
-          `/+++ooooooooooooo/`
-         ./ooosssso++osssssso+`
-        .oossssso-````/ossssss+`
-       -osssssso.      :ssssssso.
-      :osssssss/        osssso+++.
-     /ossssssss/        +ssssooo/-
-   `/ossssso+/:-        -:/+osssso+-
-  `+sso+:-`                 `.-/+oso:
- `++:.                           `-/+/
- .`                                 `/
 </pre>
-          </td>
-          <td style="vertical-align:top;padding:0 0 0 18px">
-<pre style="background:transparent;font-size:11px;line-height:1.45;margin:0;border:none;padding:0">
-<span style="color:#7dcfff">yunlk</span><span style="color:#c0caf5">@</span><span style="color:#7dcfff">arch</span>
-<span style="color:#565f89">----------</span>
-<span style="color:#7dcfff">OS:</span> <span style="color:#c0caf5">Arch Linux</span>
-<span style="color:#7dcfff">Shell:</span> <span style="color:#c0caf5">zsh</span>
-<span style="color:#7dcfff">WM:</span> <span style="color:#c0caf5">Hyprland</span>
-<span style="color:#7dcfff">Uptime:</span> <span style="color:#9ece6a">比 Win11 稳</span>
-<span style="color:#7dcfff">CPU:</span> <span style="color:#e0af68">摸鱼 (99% idle)</span>
-<span style="color:#7dcfff">Packages:</span> <span style="color:#9ece6a">够用就行</span>
-<span style="color:#7dcfff">Terminal:</span> <span style="color:#c0caf5">kitty</span>
+</td>
+<td style="vertical-align:top;padding-left:12px">
+<pre style="line-height:1.2;margin:0;border:none;padding:0">
+<span style="color:#7dcfff">yunlk</span><span style="color:#c0caf5">@arch</span>
+<span style="color:#c0caf5">OS:</span> Arch Linux
+<span style="color:#c0caf5">Shell:</span> zsh · <span style="color:#c0caf5">WM:</span> Hyprland
+<span style="color:#c0caf5">Terminal:</span> kitty
+<span style="color:#9ece6a">Uptime: 比 Win11 稳 · CPU: 99% idle</span>
 </pre>
-          </td>
-        </tr>
-      </table>
-<pre style="background:transparent;color:#9ece6a;font-size:11px;margin:10px 0 0 0;border:none;padding:0">yunlk@arch:~$ <span style="color:#c0caf5">█</span></pre>
-    </td>
-  </tr>
-</table>
-</td></tr></table>
-
-<br>
+</td>
+</tr></table>
 
 **Languages**
 

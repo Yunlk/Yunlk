@@ -23,6 +23,9 @@
 ![Git](https://img.shields.io/badge/Git-F05032?flat&logo=git&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?flat&logo=vim&logoColor=white)
 ![Keil](https://img.shields.io/badge/Keil-394EFF?flat&logo=arm&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?flat&logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/VS-5C2D91?flat&logo=visualstudio&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?flat&logoColor=white)
 
 $$
 X_k = \sum x_n \cdot e^{\frac{-2 \pi i k n }{ N}}

@@ -18,7 +18,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?flat&logo=git&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?flat&logo=vim&logoColor=white)
 ![Keil](https://img.shields.io/badge/Keil-394EFF?flat&logo=arm&logoColor=white)
-![嘉立创EDA](https://img.shields.io/badge/嘉立创EDA-1A7F37?flat&logoColor=white)
 
 **maimai DX Rating**
 

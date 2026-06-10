@@ -7,7 +7,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"不要相信用户的输入"*
+> *"写 C 的人不需要安全感"*
 <!-- quote-end -->
 
 **Languages**

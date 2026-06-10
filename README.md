@@ -46,7 +46,7 @@ $$
   <img src="assets/netease-card.svg" alt="ももいろの鍵 - いよわ feat. 初音ミク" width="480">
 </a>
 
-<img src="https://count.getloli.com/get/@Yunlk?theme=moebooru" width="120" />
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Yunlk.Yunlk)
 
 </div>
 

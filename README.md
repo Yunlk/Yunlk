@@ -7,7 +7,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"FFT 都写了，还有什么做不出来"*
+> *"摸鱼是生产力的一部分"*
 <!-- quote-end -->
 
 **Languages**

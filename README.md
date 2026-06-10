@@ -38,7 +38,7 @@ $$
 
 **maimai DX Rating**
 
-<img src="https://dxrating.luoling.moe/api/genImage/yun5k" alt="舞萌 DX Rating" />
+<img src="https://dxrating.luoling.moe/api/genImage/yun5k?v=1" alt="舞萌 DX Rating" />
 
 **Now Playing**
 

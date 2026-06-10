@@ -1,4 +1,4 @@
-name: WakaTime Cache Buster
+name: Cache Buster
 
 on:
   schedule:
@@ -13,35 +13,47 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Bump WakaTime cache version
+      - name: Bump cache versions
         run: |
           import re
 
           with open('README.md', 'r', encoding='utf-8') as f:
               content = f.read()
 
-          pattern = r'wakatime\.com/badge/user/([^"?]+)\.svg\?v=(\d+)'
-          match = re.search(pattern, content)
-          if not match:
-              print('WakaTime badge not found, skipping.')
+          changed = False
+
+          # WakaTime badge
+          m = re.search(r'wakatime\.com/badge/user/([^"?]+)\.svg\?v=(\d+)', content)
+          if m:
+              uid, v = m.group(1), int(m.group(2))
+              content = content.replace(
+                  f'wakatime.com/badge/user/{uid}.svg?v={v}',
+                  f'wakatime.com/badge/user/{uid}.svg?v={v + 1}'
+              )
+              print(f'Bumped WakaTime: v{v} → v{v + 1}')
+              changed = True
+
+          # maimai DX Rating
+          m = re.search(r'dxrating\.luoling\.moe/api/genImage/([^"?]+)\?v=(\d+)', content)
+          if m:
+              user, v = m.group(1), int(m.group(2))
+              content = content.replace(
+                  f'dxrating.luoling.moe/api/genImage/{user}?v={v}',
+                  f'dxrating.luoling.moe/api/genImage/{user}?v={v + 1}'
+              )
+              print(f'Bumped maimai: v{v} → v{v + 1}')
+              changed = True
+
+          if not changed:
+              print('Nothing to bump, exiting.')
               exit(0)
-
-          user_id = match.group(1)
-          old_v = int(match.group(2))
-          new_v = old_v + 1
-
-          old_url = f'wakatime.com/badge/user/{user_id}.svg?v={old_v}'
-          new_url = f'wakatime.com/badge/user/{user_id}.svg?v={new_v}'
-          content = content.replace(old_url, new_url)
 
           with open('README.md', 'w', encoding='utf-8') as f:
               f.write(content)
-
-          print(f'Bumped cache: v{old_v} → v{new_v}')
         shell: python
 
       - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git diff --quiet || (git add README.md && git commit -m "🔄 wakatime cache refresh" && git push)
+          git diff --quiet || (git add README.md && git commit -m "🔄 cache refresh" && git push)

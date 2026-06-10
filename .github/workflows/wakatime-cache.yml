@@ -1,0 +1,47 @@
+name: WakaTime Cache Buster
+
+on:
+  schedule:
+    - cron: '0 2,8,14,20 * * *'
+  workflow_dispatch:
+
+jobs:
+  bump:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Bump WakaTime cache version
+        run: |
+          import re
+
+          with open('README.md', 'r', encoding='utf-8') as f:
+              content = f.read()
+
+          pattern = r'wakatime\.com/badge/user/([^"?]+)\.svg\?v=(\d+)'
+          match = re.search(pattern, content)
+          if not match:
+              print('WakaTime badge not found, skipping.')
+              exit(0)
+
+          user_id = match.group(1)
+          old_v = int(match.group(2))
+          new_v = old_v + 1
+
+          old_url = f'wakatime.com/badge/user/{user_id}.svg?v={old_v}'
+          new_url = f'wakatime.com/badge/user/{user_id}.svg?v={new_v}'
+          content = content.replace(old_url, new_url)
+
+          with open('README.md', 'w', encoding='utf-8') as f:
+              f.write(content)
+
+          print(f'Bumped cache: v{old_v} → v{new_v}')
+        shell: python
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git diff --quiet || (git add README.md && git commit -m "🔄 wakatime cache refresh" && git push)

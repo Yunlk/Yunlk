@@ -30,7 +30,7 @@
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?flat&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?flat&logo=vmware&logoColor=white)
 
-[![wakatime](https://wakatime.com/badge/user/4f2fd9f3-37f9-4131-b51c-c5e081a0d3e7.svg)](https://wakatime.com/@Yunlk)
+[![wakatime](https://wakatime.com/badge/user/4f2fd9f3-37f9-4131-b51c-c5e081a0d3e7.svg?v=1)](https://wakatime.com/@Yunlk)
 
 $$
 X_k = \sum x_n \cdot e^{\frac{-2 \pi i k n }{ N}}

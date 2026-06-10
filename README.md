@@ -7,7 +7,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"摸鱼是生产力的一部分"*
+> *"不要相信用户的输入"*
 <!-- quote-end -->
 
 **Languages**

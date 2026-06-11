@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"井1nclued 《i0straem>"*
+> *"这个逻辑是谁写的？"*
 <!-- quote-end -->
 
 

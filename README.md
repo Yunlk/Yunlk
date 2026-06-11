@@ -72,7 +72,7 @@ $$
 **now playing**
 
 <a href="https://music.163.com/song?id=2129098351">
-  <img src="assets/netease-card.svg" alt="ももいろの鍵 - いよわ feat. 初音ミク" width="320">
+  <img src="assets/netease-card.svg" alt="ももいろの鍵 - いよわ feat. 初音ミク" width="400">
 </a>
 
 

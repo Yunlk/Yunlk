@@ -2,11 +2,6 @@
 
 ## Hi 👋 I'm Yunlk
 
-<div align="center">
-<marquee scrollamount="3" scrolldelay="60" style="max-width:520px;color:#8fbc8f">
-  ☁️ Welcome to Yunlk's Hideout&nbsp;&nbsp;·&nbsp;&nbsp;Best viewed in 800×600 @ 16bit&nbsp;&nbsp;·&nbsp;&nbsp;You are visitor #????&nbsp;&nbsp;·&nbsp;&nbsp;guestbook below
-</marquee>
-</div>
 
 [![How To Ask Questions The Smart Way](https://img.shields.io/badge/README-提问的智慧-181717?logo=github&logoColor=white)](https://github.com/tvvocold/How-To-Ask-Questions-The-Smart-Way)
 

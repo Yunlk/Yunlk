@@ -39,30 +39,14 @@
 [![wakatime](https://wakatime.com/badge/user/4f2fd9f3-37f9-4131-b51c-c5e081a0d3e7.svg?v=6)](https://wakatime.com/@Yunlk)
 
 $$
-\left[
-\lim_{\varepsilon\to 0^{+}}
-\frac{1}{\varepsilon}
-\exp\!\left(
--\int_{-\infty}^{\infty}
-\frac{\log\Gamma(1+it)}{t^2+\varepsilon^2}\,dt
-\right)
-\ \times\ 
-\left\lfloor
-\frac{\displaystyle\sum_{n=1}^{\infty}
-\frac{\mu(n)}{n^{x}}}
-{\displaystyle\prod_{p\in\mathbb{P}}
-\left(1-p^{-x}\right)^{-1}}
-\right\rfloor
-\right]
-\ \times\ 
-\left[
-\frac{1}{2\pi i}
-\oint_{|z|=1}
-\frac{e^{z}}{z}dz
-\ -\ 
-\frac{1}{\Gamma(1)}
-\right]
-\ =\ 0
+\Psi (x) =
+\frac{\left( \displaystyle\sum_{n=1}^{\infty} \frac{1}{n^2}\right)^{2}}{\displaystyle \sum_{n=1}^{\infty}\frac{1}{n^{4}}}\times
+\frac{\displaystyle\prod_{p\in \mathbb{P}}\left(1-\frac{1}{p^{4}} \right) }{\displaystyle\prod_{p\in \mathbb{P}}\left(1-\frac{1}{p^{2}} \right)^{2} }\times
+\frac{\left(\displaystyle \sum _{n=1}^{\infty} \frac{1}{n^{4}}\right )^{2}}{\left(\displaystyle \sum _{n=1}^{\infty} \frac{1}{n^{2}}\right )^{4}}\times
+\left \lfloor \frac{\displaystyle\int_{0}^{\infty}\frac{x}{e^{x} -1}dx}{\displaystyle \sum_{n=1}^{\infty}\frac{1}{n^{2}}} \right \rfloor \times
+{\left \lceil  \frac{\displaystyle\Gamma \left(\frac{1}{2}\right)}{\displaystyle \int_{-\infty}^{\infty}e^{-t^{2}}dt}
+\right \rceil}^{0}
+=\boxed{1}
 $$
 
 **maimai DX Rating**

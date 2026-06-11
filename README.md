@@ -35,10 +35,36 @@
 ![VMware](https://img.shields.io/badge/VMware-607078?flat&logo=vmware&logoColor=white)
 ![Private Skill](https://img.shields.io/badge/Yunlk.skill-private-222?style=flat&label=🔒%20skill&labelColor=1a1a1a&color=8fbc8f)
 
+
 [![wakatime](https://wakatime.com/badge/user/4f2fd9f3-37f9-4131-b51c-c5e081a0d3e7.svg?v=6)](https://wakatime.com/@Yunlk)
 
 $$
-X_k = \sum x_n \cdot e^{\frac{-2 \pi i k n }{ N}}
+
+\left[
+\lim_{\varepsilon\to 0^{+}}
+\frac{1}{\varepsilon}
+\exp\!\left(
+-\int_{-\infty}^{\infty}
+\frac{\log\Gamma(1+it)}{t^2+\varepsilon^2}\,dt
+\right)
+\;\times\;
+\left\lfloor
+\frac{\displaystyle\sum_{n=1}^{\infty}
+\frac{\mu(n)}{n^{x}}}
+{\displaystyle\prod_{p\in\mathbb{P}}
+\left(1-p^{-x}\right)^{-1}}
+\right\rfloor
+\right]
+\;\times\;
+\left[
+\frac{1}{2\pi i}
+\oint_{|z|=1}
+\frac{e^{z}}{z}\,dz
+\;-\;
+\frac{1}{\Gamma(1)}
+\right]
+\;=\; \boxed{0}
+
 $$
 
 **maimai DX Rating**

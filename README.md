@@ -69,8 +69,6 @@ $$
 
 <img src="https://dxrating.luoling.moe/api/genImage/yun5k?v=6" alt="舞萌 DX Rating" />
 
-**Now Playing**
-
 <a href="https://music.163.com/song?id=2129098351">
   <img src="assets/netease-card.svg" alt="ももいろの鍵 - いよわ feat. 初音ミク" width="480">
 </a>

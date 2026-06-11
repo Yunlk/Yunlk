@@ -39,7 +39,6 @@
 [![wakatime](https://wakatime.com/badge/user/4f2fd9f3-37f9-4131-b51c-c5e081a0d3e7.svg?v=6)](https://wakatime.com/@Yunlk)
 
 $$
-
 \left[
 \lim_{\varepsilon\to 0^{+}}
 \frac{1}{\varepsilon}
@@ -47,7 +46,7 @@ $$
 -\int_{-\infty}^{\infty}
 \frac{\log\Gamma(1+it)}{t^2+\varepsilon^2}\,dt
 \right)
-\;\times\;
+\ \times\ 
 \left\lfloor
 \frac{\displaystyle\sum_{n=1}^{\infty}
 \frac{\mu(n)}{n^{x}}}
@@ -55,16 +54,15 @@ $$
 \left(1-p^{-x}\right)^{-1}}
 \right\rfloor
 \right]
-\;\times\;
+\ \times\ 
 \left[
 \frac{1}{2\pi i}
 \oint_{|z|=1}
 \frac{e^{z}}{z}\,dz
-\;-\;
+\ -\ 
 \frac{1}{\Gamma(1)}
 \right]
-\;=\; \boxed{0}
-
+\ =\ 0
 $$
 
 **maimai DX Rating**

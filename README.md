@@ -1,6 +1,7 @@
 <div align="center">
 
 ## Hi 👋 I'm Yunlk
+[![How To Ask Questions The Smart Way](https://img.shields.io/badge/README-提问的智慧-181717?logo=github&logoColor=white)](https://github.com/tvvocold/How-To-Ask-Questions-The-Smart-Way)
 
 📫 yunlk@foxmail.com
 🎮 making a galgame · 📟 learning LABVIEW & STM32
@@ -9,6 +10,7 @@
 <!-- quote-start -->
 > *"硬件和软件的区别，在于一个能踢"*
 <!-- quote-end -->
+
 
 **Languages**
 

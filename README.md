@@ -33,6 +33,7 @@
 ![Visual Studio](https://img.shields.io/badge/VS-5C2D91?flat&logo=visualstudio&logoColor=white)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?flat&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?flat&logo=vmware&logoColor=white)
+![Private Skill](https://img.shields.io/badge/Yunlk.skill-private-222?style=flat&label=🔒%20skill&labelColor=1a1a1a&color=8fbc8f)
 
 [![wakatime](https://wakatime.com/badge/user/4f2fd9f3-37f9-4131-b51c-c5e081a0d3e7.svg?v=6)](https://wakatime.com/@Yunlk)
 

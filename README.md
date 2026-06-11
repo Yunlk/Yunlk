@@ -7,7 +7,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"写 C 的人不需要安全感"*
+> *"硬件和软件的区别，在于一个能踢"*
 <!-- quote-end -->
 
 **Languages**

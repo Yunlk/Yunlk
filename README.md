@@ -37,7 +37,7 @@
 ![Private Skill](https://img.shields.io/badge/Yunlk.skill-private-222?style=flat&label=🔒%20skill&labelColor=1a1a1a&color=8fbc8f)
 
 
-[![wakatime](https://wakatime.com/badge/user/4f2fd9f3-37f9-4131-b51c-c5e081a0d3e7.svg?v=9)](https://wakatime.com/@Yunlk)
+[![wakatime](https://wakatime.com/badge/user/4f2fd9f3-37f9-4131-b51c-c5e081a0d3e7.svg?v=10)](https://wakatime.com/@Yunlk)
 
 $$
 \Psi (x) =
@@ -52,7 +52,7 @@ $$
 
 **maimai DX Rating**
 
-<img src="https://dxrating.luoling.moe/api/genImage/yun5k?v=9" alt="舞萌 DX Rating" />
+<img src="https://dxrating.luoling.moe/api/genImage/yun5k?v=10" alt="舞萌 DX Rating" />
 
 **now playing**
 

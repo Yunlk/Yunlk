@@ -35,7 +35,9 @@
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?flat&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?flat&logo=vmware&logoColor=white)
 ![Private Skill](https://img.shields.io/badge/Yunlk.skill-private-222?style=flat&label=🔒%20skill&labelColor=1a1a1a&color=8fbc8f)
-
+![Xshell](https://img.shields.io/badge/Xshell-0A66C2?flat&logo=xshell&logoColor=white)
+![Xftp](https://img.shields.io/badge/Xftp-00A98F?flat&logo=xftp&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?flat&logo=docker&logoColor=white)
 
 [![wakatime](https://wakatime.com/badge/user/4f2fd9f3-37f9-4131-b51c-c5e081a0d3e7.svg?v=10)](https://wakatime.com/@Yunlk)
 
@@ -66,3 +68,7 @@ $$
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Yunlk.Yunlk)
 
 </div>
+
+<span title="为了找这个你可真是煞费苦心。">🔎</span> <span title="0x5f3759df">🔮</span></span> <span title="*今晚也和你在这个地方。*">🚬</span><span title="Hello, new Puppeteer. Keep your puppet safe at all times. …Or don't.">🪆</span><span title="帮我把牛奶买回来。脚后跟先着地…然后是脚尖。">🥛</span><span title="光源在你手里。别把它放下来。">☀️</span><span title="Just Monika.">🌸</span><span title="海风里有铁锈味。那个夏天，她坏掉了。">⚓</span><span title="胶达拼错了。又拼错了。">📦</span><span title="Oyasumi, oyasumi…">🗡️</span><span title="195是高性能无线信号灯。春，走吧——回现实中。">🚦</span><span title="纸箱比较安全。">🎸</span>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Yunlk.Yunlk)

@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"指针不是问题，问题是你的指针"*
+> *"这个项目的历史比我的职业生涯还长，而它还在用C89"*
 <!-- quote-end -->
 
 

@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"// TODO: fix this"*
+> *"摸鱼是生产力的一部分"*
 <!-- quote-end -->
 
 

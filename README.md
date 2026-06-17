@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"能用就别重构"*
+> *"不要相信用户的输入"*
 <!-- quote-end -->
 
 

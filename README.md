@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"复杂度分析：O(能过)"*
+> *"不要相信用户的输入"*
 <!-- quote-end -->
 
 

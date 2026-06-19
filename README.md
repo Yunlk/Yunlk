@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"//This code is garbage"*
+> *"LED 亮了就别动了"*
 <!-- quote-end -->
 
 

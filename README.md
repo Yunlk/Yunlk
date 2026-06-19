@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"我就改一行"*
+> *"这个逻辑是谁写的？"*
 <!-- quote-end -->
 
 

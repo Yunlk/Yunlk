@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"指针不是问题，问题是你的指针"*
+> *"最好的性能优化是换一个更好的算法，其次是把循环展开"*
 <!-- quote-end -->
 
 

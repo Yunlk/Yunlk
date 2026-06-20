@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"LED 亮了就别动了"*
+> *"最好的加密算法是 rm -rf /"*
 <!-- quote-end -->
 
 

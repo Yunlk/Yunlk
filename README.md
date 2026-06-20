@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"指针不是问题，问题是你的指针"*
+> *"Bug 不是错误，是未被文档化的特性"*
 <!-- quote-end -->
 
 

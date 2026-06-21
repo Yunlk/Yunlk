@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"Bug 不是错误，是未被文档化的特性"*
+> *"该睡了，但 commit 还没 push"*
 <!-- quote-end -->
 
 

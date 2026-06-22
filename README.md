@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"调了一小时，发现是 <=写成 <，加个等号，过了"*
+> *"该睡了，但 commit 还没 push"*
 <!-- quote-end -->
 
 

@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"最好的加密算法是 rm -rf /"*
+> *"指针不是问题，问题是你的指针"*
 <!-- quote-end -->
 
 

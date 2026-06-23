@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"这个逻辑是谁写的？"*
+> *"最好的加密算法是 rm -rf /"*
 <!-- quote-end -->
 
 

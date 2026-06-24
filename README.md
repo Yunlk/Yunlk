@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"int x = (printf("Oops"), 42);"*
+> *"复杂度分析：O(能过)"*
 <!-- quote-end -->
 
 

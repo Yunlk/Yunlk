@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"这个逻辑是谁写的？"*
+> *"复杂度分析：O(能过)"*
 <!-- quote-end -->
 
 

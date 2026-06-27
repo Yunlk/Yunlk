@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"for(;;)"*
+> *"// TODO: fix this"*
 <!-- quote-end -->
 
 

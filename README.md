@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"串口打印治百病"*
+> *"最好的加密算法是 rm -rf /"*
 <!-- quote-end -->
 
 

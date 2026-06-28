@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"//This code is garbage"*
+> *"不要相信用户的输入"*
 <!-- quote-end -->
 
 

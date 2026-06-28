@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"不要相信用户的输入"*
+> *"该睡了，但 commit 还没 push"*
 <!-- quote-end -->
 
 

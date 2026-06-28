@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"指针不是问题，问题是你的指针"*
+> *"//This code is garbage"*
 <!-- quote-end -->
 
 

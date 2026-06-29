@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"我就改一行"*
+> *"最好的性能优化是换一个更好的算法，其次是把循环展开"*
 <!-- quote-end -->
 
 

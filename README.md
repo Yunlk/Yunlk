@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"最好的加密算法是 rm -rf /"*
+> *"打表的时间复杂度是 O(1)——前提是你有一张足够大的表"*
 <!-- quote-end -->
 
 

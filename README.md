@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"Bug 不是错误，是未被文档化的特性"*
+> *"打表的时间复杂度是 O(1)——前提是你有一张足够大的表"*
 <!-- quote-end -->
 
 

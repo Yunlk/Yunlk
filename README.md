@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"摸鱼是生产力的一部分"*
+> *"该睡了，但 commit 还没 push"*
 <!-- quote-end -->
 
 

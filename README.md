@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"我就改一行"*
+> *"不要相信用户的输入"*
 <!-- quote-end -->
 
 

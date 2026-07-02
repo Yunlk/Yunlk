@@ -39,7 +39,7 @@
 ![Xftp](https://img.shields.io/badge/Xftp-00A98F?flat&logo=xftp&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?flat&logo=docker&logoColor=white)
 
-[![wakatime](https://wakatime.com/badge/user/4f2fd9f3-37f9-4131-b51c-c5e081a0d3e7.svg?v=90)](https://wakatime.com/@Yunlk)
+[![wakatime](https://wakatime.com/badge/user/4f2fd9f3-37f9-4131-b51c-c5e081a0d3e7.svg?v=91)](https://wakatime.com/@Yunlk)
 
 $$
 \Psi (x) =
@@ -54,7 +54,7 @@ $$
 
 **maimai DX Rating**
 
-<img src="https://dxrating.luoling.moe/api/genImage/yun5k?v=90" alt="舞萌 DX Rating" />
+<img src="https://dxrating.luoling.moe/api/genImage/yun5k?v=91" alt="舞萌 DX Rating" />
 
 **now playing**
 

@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"样例过了，交上去WA，加个1，WA，减个1，WA，然后发现是自己和编译器和OJ和宇宙都是傻子，躺平，不AC了"*
+> *"数据手册第37页有答案，但没人看到第37页"*
 <!-- quote-end -->
 
 

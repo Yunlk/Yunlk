@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"我就改一行"*
+> *"硬件和软件的区别，在于一个能踢"*
 <!-- quote-end -->
 
 

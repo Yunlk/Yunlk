@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"Bug 不是错误，是未被文档化的特性"*
+> *"摸鱼是生产力的一部分"*
 <!-- quote-end -->
 
 

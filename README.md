@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"串口打印治百病"*
+> *"复杂度分析：O(能过)"*
 <!-- quote-end -->
 
 

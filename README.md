@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"复杂度分析：O(能过)"*
+> *"硬件和软件的区别，在于一个能踢"*
 <!-- quote-end -->
 
 

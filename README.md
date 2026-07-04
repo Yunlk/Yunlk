@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"不写注释是对后来者的信任——显然你高估了他们"*
+> *"用printf调试的人，内心都很强大"*
 <!-- quote-end -->
 
 

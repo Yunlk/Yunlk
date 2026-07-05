@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"LED 亮了就别动了"*
+> *"样例过了，交上去WA，加个1，WA，减个1，WA，然后发现是自己和编译器和OJ和宇宙都是傻子，躺平，不AC了"*
 <!-- quote-end -->
 
 

@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"能用就别重构"*
+> *"井1nclued 《i0straem>"*
 <!-- quote-end -->
 
 

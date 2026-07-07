@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"这个逻辑是谁写的？"*
+> *"这题我O(n²)能过，因为n ≤ 10"*
 <!-- quote-end -->
 
 

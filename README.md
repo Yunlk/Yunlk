@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"for(;;)"*
+> *"指针不是问题，问题是你的指针"*
 <!-- quote-end -->
 
 

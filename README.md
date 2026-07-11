@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"调了一小时，发现是 <=写成 <，加个等号，过了"*
+> *"这题我O(n²)能过，因为n ≤ 10"*
 <!-- quote-end -->
 
 

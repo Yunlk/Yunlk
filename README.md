@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"最好的加密算法是 rm -rf /"*
+> *"int x = (printf("Oops"), 42);"*
 <!-- quote-end -->
 
 

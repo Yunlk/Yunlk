@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"能用就别重构"*
+> *"该睡了，但 commit 还没 push"*
 <!-- quote-end -->
 
 

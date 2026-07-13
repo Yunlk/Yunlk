@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"这题我O(n²)能过，因为n ≤ 10"*
+> *"数据手册第37页有答案，但没人看到第37页"*
 <!-- quote-end -->
 
 

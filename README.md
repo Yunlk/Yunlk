@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"这题我O(n²)能过，因为n ≤ 10"*
+> *"井1nclued 《i0straem>"*
 <!-- quote-end -->
 
 

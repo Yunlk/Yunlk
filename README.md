@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"int x = (printf("Oops"), 42);"*
+> *"这个逻辑是谁写的？"*
 <!-- quote-end -->
 
 

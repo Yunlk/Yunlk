@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"硬件和软件的区别，在于一个能踢"*
+> *"摸鱼是生产力的一部分"*
 <!-- quote-end -->
 
 

@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"LED 亮了就别动了"*
+> *"编译过了就别动它"*
 <!-- quote-end -->
 
 

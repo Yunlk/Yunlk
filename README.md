@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"编译过了就别动它"*
+> *"井1nclued 《i0straem>"*
 <!-- quote-end -->
 
 

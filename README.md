@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"能用就别重构"*
+> *"硬件和软件的区别，在于一个能踢"*
 <!-- quote-end -->
 
 

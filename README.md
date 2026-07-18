@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"// TODO: fix this"*
+> *"编译过了就别动它"*
 <!-- quote-end -->
 
 

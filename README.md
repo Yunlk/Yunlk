@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"井1nclued 《i0straem>"*
+> *"用printf调试的人，内心都很强大"*
 <!-- quote-end -->
 
 

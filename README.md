@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"复杂度分析：O(能过)"*
+> *"调了一小时，发现是 <=写成 <，加个等号，过了"*
 <!-- quote-end -->
 
 

@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"用printf调试的人，内心都很强大"*
+> *"这个项目的历史比我的职业生涯还长，而它还在用C89"*
 <!-- quote-end -->
 
 

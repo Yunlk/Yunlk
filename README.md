@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"int mian(void)"*
+> *"井1nclued 《i0straem>"*
 <!-- quote-end -->
 
 

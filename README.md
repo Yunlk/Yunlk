@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"摸鱼是生产力的一部分"*
+> *"不写注释是对后来者的信任——显然你高估了他们"*
 <!-- quote-end -->
 
 

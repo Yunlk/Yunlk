@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"int mian(void)"*
+> *"int main(int argc, char **argv) { return ((int(*)())main)(); }"*
 <!-- quote-end -->
 
 

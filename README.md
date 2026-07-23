@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"世界上只有两种语言：被人骂的和没人用的"*
+> *"调了一小时，发现是 <=写成 <，加个等号，过了"*
 <!-- quote-end -->
 
 

@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"不写注释是对后来者的信任——显然你高估了他们"*
+> *"复杂度分析：O(能过)"*
 <!-- quote-end -->
 
 

@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"数据手册第37页有答案，但没人看到第37页"*
+> *"最好的加密算法是 rm -rf /"*
 <!-- quote-end -->
 
 

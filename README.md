@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"最好的加密算法是 rm -rf /"*
+> *"void leak() { malloc(1024); }"*
 <!-- quote-end -->
 
 

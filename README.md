@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"这题我O(n²)能过，因为n ≤ 10"*
+> *"指针不是问题，问题是你的指针"*
 <!-- quote-end -->
 
 

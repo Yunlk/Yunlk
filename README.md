@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"这题我O(n²)能过，因为n ≤ 10"*
+> *"最好的加密算法是 rm -rf /"*
 <!-- quote-end -->
 
 

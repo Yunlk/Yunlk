@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"串口打印治百病"*
+> *"摸鱼是生产力的一部分"*
 <!-- quote-end -->
 
 

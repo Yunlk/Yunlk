@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"硬件和软件的区别，在于一个能踢"*
+> *"世界上只有两种语言：被人骂的和没人用的"*
 <!-- quote-end -->
 
 

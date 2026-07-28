@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"摸鱼是生产力的一部分"*
+> *"int x = (printf("Oops"), 42);"*
 <!-- quote-end -->
 
 

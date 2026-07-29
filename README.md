@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"//This code is garbage"*
+> *"井1nclued 《i0straem>"*
 <!-- quote-end -->
 
 

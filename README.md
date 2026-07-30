@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"int main(int argc, char **argv) { return ((int(*)())main)(); }"*
+> *"井1nclued 《i0straem>"*
 <!-- quote-end -->
 
 

@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"这个逻辑是谁写的？"*
+> *"int main(int argc, char **argv) { return ((int(*)())main)(); }"*
 <!-- quote-end -->
 
 

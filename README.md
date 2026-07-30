@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"串口打印治百病"*
+> *"这个逻辑是谁写的？"*
 <!-- quote-end -->
 
 

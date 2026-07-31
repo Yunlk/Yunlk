@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"// TODO: fix this"*
+> *"比样例少1？加1交了"*
 <!-- quote-end -->
 
 

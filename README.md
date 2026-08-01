@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"编译过了就别动它"*
+> *"该睡了，但 commit 还没 push"*
 <!-- quote-end -->
 
 

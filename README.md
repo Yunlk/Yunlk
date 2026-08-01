@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"硬件和软件的区别，在于一个能踢"*
+> *"void leak() { malloc(1024); }"*
 <!-- quote-end -->
 
 

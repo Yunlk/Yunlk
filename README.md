@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"这个逻辑是谁写的？"*
+> *"摸鱼是生产力的一部分"*
 <!-- quote-end -->
 
 

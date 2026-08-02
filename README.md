@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"LED 亮了就别动了"*
+> *"硬件和软件的区别，在于一个能踢"*
 <!-- quote-end -->
 
 

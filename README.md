@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"该睡了，但 commit 还没 push"*
+> *"int x = (printf("Oops"), 42);"*
 <!-- quote-end -->
 
 

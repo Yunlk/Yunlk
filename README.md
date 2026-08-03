@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"串口打印治百病"*
+> *"int main(int argc, char **argv) { return ((int(*)())main)(); }"*
 <!-- quote-end -->
 
 

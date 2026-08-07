@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"该睡了，但 commit 还没 push"*
+> *"最好的加密算法是 rm -rf /"*
 <!-- quote-end -->
 
 

@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"最好的加密算法是 rm -rf /"*
+> *"摸鱼是生产力的一部分"*
 <!-- quote-end -->
 
 

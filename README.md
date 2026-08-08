@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"int mian(void)"*
+> *"编译过了就别动它"*
 <!-- quote-end -->
 
 

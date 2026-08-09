@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"井1nclued 《i0straem>"*
+> *"世界上只有两种语言：被人骂的和没人用的"*
 <!-- quote-end -->
 
 

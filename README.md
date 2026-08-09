@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"用printf调试的人，内心都很强大"*
+> *"这段代码只有上帝和我知道它在干什么——现在只剩上帝知道了"*
 <!-- quote-end -->
 
 

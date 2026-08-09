@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"能用就别重构"*
+> *"用printf调试的人，内心都很强大"*
 <!-- quote-end -->
 
 

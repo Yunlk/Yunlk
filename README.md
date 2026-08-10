@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"不要相信用户的输入"*
+> *"打表的时间复杂度是 O(1)——前提是你有一张足够大的表"*
 <!-- quote-end -->
 
 

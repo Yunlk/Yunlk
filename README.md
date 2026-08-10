@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"// TODO: fix this"*
+> *"打表的时间复杂度是 O(1)——前提是你有一张足够大的表"*
 <!-- quote-end -->
 
 

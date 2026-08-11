@@ -34,6 +34,7 @@
 ![Visual Studio](https://img.shields.io/badge/VS-5C2D91?flat&logo=visualstudio&logoColor=white)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?flat&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?flat&logo=vmware&logoColor=white)
+![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=archlinux&logoColor=white)
 ![Private Skill](https://img.shields.io/badge/Yunlk.skill-private-222?style=flat&label=🔒%20Yunlk.skill&labelColor=1a1a1a&color=8fbc8f)
 ![Xshell](https://img.shields.io/badge/Xshell-0A66C2?flat&logo=xshell&logoColor=white)
 ![Xftp](https://img.shields.io/badge/Xftp-00A98F?flat&logo=xftp&logoColor=white)

@@ -34,10 +34,12 @@
 ![Visual Studio](https://img.shields.io/badge/VS-5C2D91?flat&logo=visualstudio&logoColor=white)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?flat&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?flat&logo=vmware&logoColor=white)
-![Private Skill](https://img.shields.io/badge/Yunlk.skill-private-222?style=flat&label=🔒%20skill&labelColor=1a1a1a&color=8fbc8f)
+![Private Skill](https://img.shields.io/badge/Yunlk.skill-private-222?style=flat&label=🔒%20Yunlk.skill&labelColor=1a1a1a&color=8fbc8f)
 ![Xshell](https://img.shields.io/badge/Xshell-0A66C2?flat&logo=xshell&logoColor=white)
 ![Xftp](https://img.shields.io/badge/Xftp-00A98F?flat&logo=xftp&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?flat&logo=docker&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-000000?style=flat&logo=claudecode&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=flat&logo=openai&logoColor=white)
 
 [![wakatime](https://wakatime.com/badge/user/4f2fd9f3-37f9-4131-b51c-c5e081a0d3e7.svg?v=252)](https://wakatime.com/@Yunlk)
 

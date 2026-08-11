@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"int mian(void)"*
+> *"LED 亮了就别动了"*
 <!-- quote-end -->
 
 

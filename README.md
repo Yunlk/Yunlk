@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"//This code is garbage"*
+> *"摸鱼是生产力的一部分"*
 <!-- quote-end -->
 
 

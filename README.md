@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"比样例少1？加1交了"*
+> *"硬件和软件的区别，在于一个能踢"*
 <!-- quote-end -->
 
 

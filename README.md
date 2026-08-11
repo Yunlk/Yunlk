@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"硬件和软件的区别，在于一个能踢"*
+> *"用printf调试的人，内心都很强大"*
 <!-- quote-end -->
 
 

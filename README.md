@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"能用就别重构"*
+> *"复杂度分析：O(能过)"*
 <!-- quote-end -->
 
 

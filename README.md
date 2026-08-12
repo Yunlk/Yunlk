@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"int mian(void)"*
+> *"int x = (printf("Oops"), 42);"*
 <!-- quote-end -->
 
 

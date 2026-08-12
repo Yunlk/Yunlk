@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"编译过了就别动它"*
+> *"复杂度分析：O(能过)"*
 <!-- quote-end -->
 
 

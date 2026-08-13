@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"int x = (printf("Oops"), 42);"*
+> *"LED 亮了就别动了"*
 <!-- quote-end -->
 
 

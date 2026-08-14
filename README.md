@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"for(;;)"*
+> *"我就改一行"*
 <!-- quote-end -->
 
 

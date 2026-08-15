@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"Bug 不是错误，是未被文档化的特性"*
+> *"int x = (printf("Oops"), 42);"*
 <!-- quote-end -->
 
 

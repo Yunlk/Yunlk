@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"井1nclued 《i0straem>"*
+> *"LED 亮了就别动了"*
 <!-- quote-end -->
 
 

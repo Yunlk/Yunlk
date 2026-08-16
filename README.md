@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"不要相信用户的输入"*
+> *"LED 亮了就别动了"*
 <!-- quote-end -->
 
 

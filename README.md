@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"for(;;)"*
+> *"井1nclued 《i0straem>"*
 <!-- quote-end -->
 
 

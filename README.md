@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"LED 亮了就别动了"*
+> *"最好的性能优化是换一个更好的算法，其次是把循环展开"*
 <!-- quote-end -->
 
 

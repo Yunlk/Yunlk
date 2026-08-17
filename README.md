@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"该睡了，但 commit 还没 push"*
+> *"硬件和软件的区别，在于一个能踢"*
 <!-- quote-end -->
 
 

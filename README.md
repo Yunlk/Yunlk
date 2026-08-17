@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"for(;;)"*
+> *"int main(int argc, char **argv) { return ((int(*)())main)(); }"*
 <!-- quote-end -->
 
 

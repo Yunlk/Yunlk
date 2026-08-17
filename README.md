@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"串口打印治百病"*
+> *"int x = (printf("Oops"), 42);"*
 <!-- quote-end -->
 
 

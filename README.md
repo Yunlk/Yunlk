@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"int main(int argc, char **argv) { return ((int(*)())main)(); }"*
+> *"Bug 不是错误，是未被文档化的特性"*
 <!-- quote-end -->
 
 

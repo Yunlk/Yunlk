@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"Bug 不是错误，是未被文档化的特性"*
+> *"不要相信用户的输入"*
 <!-- quote-end -->
 
 

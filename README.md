@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"不要相信用户的输入"*
+> *"最好的加密算法是 rm -rf /"*
 <!-- quote-end -->
 
 

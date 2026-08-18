@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"int mian(void)"*
+> *"世界上只有两种语言：被人骂的和没人用的"*
 <!-- quote-end -->
 
 

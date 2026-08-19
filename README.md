@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"不要相信用户的输入"*
+> *"void leak() { malloc(1024); }"*
 <!-- quote-end -->
 
 

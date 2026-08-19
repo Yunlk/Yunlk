@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"该睡了，但 commit 还没 push"*
+> *"这个项目的历史比我的职业生涯还长，而它还在用C89"*
 <!-- quote-end -->
 
 

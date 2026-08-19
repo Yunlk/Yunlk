@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"该睡了，但 commit 还没 push"*
+> *"//This code is garbage"*
 <!-- quote-end -->
 
 

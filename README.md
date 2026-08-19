@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"这个逻辑是谁写的？"*
+> *"用printf调试的人，内心都很强大"*
 <!-- quote-end -->
 
 

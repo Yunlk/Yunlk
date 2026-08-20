@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"for(;;)"*
+> *"复杂度分析：O(能过)"*
 <!-- quote-end -->
 
 

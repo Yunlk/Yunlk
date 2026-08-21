@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"比样例少1？加1交了"*
+> *"这个逻辑是谁写的？"*
 <!-- quote-end -->
 
 

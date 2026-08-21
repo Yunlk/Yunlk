@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"串口打印治百病"*
+> *"// TODO: fix this"*
 <!-- quote-end -->
 
 

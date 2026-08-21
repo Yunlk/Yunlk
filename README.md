@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"//This code is garbage"*
+> *"int mian(void)"*
 <!-- quote-end -->
 
 

@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"// TODO: fix this"*
+> *"int mian(void)"*
 <!-- quote-end -->
 
 

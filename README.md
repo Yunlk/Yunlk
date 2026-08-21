@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"打表的时间复杂度是 O(1)——前提是你有一张足够大的表"*
+> *"这题我O(n²)能过，因为n ≤ 10"*
 <!-- quote-end -->
 
 

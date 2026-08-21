@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"这个逻辑是谁写的？"*
+> *"不写注释是对后来者的信任——显然你高估了他们"*
 <!-- quote-end -->
 
 

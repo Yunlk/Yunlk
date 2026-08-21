@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"int mian(void)"*
+> *"比样例少1？加1交了"*
 <!-- quote-end -->
 
 

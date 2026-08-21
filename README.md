@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"比样例少1？加1交了"*
+> *"//This code is garbage"*
 <!-- quote-end -->
 
 

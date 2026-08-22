@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"int x = (printf("Oops"), 42);"*
+> *"调了一小时，发现是 <=写成 <，加个等号，过了"*
 <!-- quote-end -->
 
 

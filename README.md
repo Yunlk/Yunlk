@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"最好的加密算法是 rm -rf /"*
+> *"这段代码只有上帝和我知道它在干什么——现在只剩上帝知道了"*
 <!-- quote-end -->
 
 

@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"能用就别重构"*
+> *"摸鱼是生产力的一部分"*
 <!-- quote-end -->
 
 

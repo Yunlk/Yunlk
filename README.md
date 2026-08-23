@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"这个逻辑是谁写的？"*
+> *"能用就别重构"*
 <!-- quote-end -->
 
 

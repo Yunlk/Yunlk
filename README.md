@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"// TODO: fix this"*
+> *"LED 亮了就别动了"*
 <!-- quote-end -->
 
 

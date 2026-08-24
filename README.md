@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"不写注释是对后来者的信任——显然你高估了他们"*
+> *"编译过了就别动它"*
 <!-- quote-end -->
 
 

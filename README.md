@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"这个项目的历史比我的职业生涯还长，而它还在用C89"*
+> *"能用就别重构"*
 <!-- quote-end -->
 
 

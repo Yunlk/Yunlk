@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"void leak() { malloc(1024); }"*
+> *"该睡了，但 commit 还没 push"*
 <!-- quote-end -->
 
 

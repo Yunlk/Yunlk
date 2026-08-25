@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"摸鱼是生产力的一部分"*
+> *"比样例少1？加1交了"*
 <!-- quote-end -->
 
 

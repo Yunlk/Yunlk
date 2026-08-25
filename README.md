@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"int mian(void)"*
+> *"硬件和软件的区别，在于一个能踢"*
 <!-- quote-end -->
 
 

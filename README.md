@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"LED 亮了就别动了"*
+> *"摸鱼是生产力的一部分"*
 <!-- quote-end -->
 
 

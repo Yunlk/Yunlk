@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"LED 亮了就别动了"*
+> *"该睡了，但 commit 还没 push"*
 <!-- quote-end -->
 
 

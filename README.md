@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"指针不是问题，问题是你的指针"*
+> *"该睡了，但 commit 还没 push"*
 <!-- quote-end -->
 
 

@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"// TODO: fix this"*
+> *"void leak() { malloc(1024); }"*
 <!-- quote-end -->
 
 

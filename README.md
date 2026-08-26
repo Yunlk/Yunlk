@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"该睡了，但 commit 还没 push"*
+> *"用printf调试的人，内心都很强大"*
 <!-- quote-end -->
 
 

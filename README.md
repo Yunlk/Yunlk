@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"for(;;)"*
+> *"该睡了，但 commit 还没 push"*
 <!-- quote-end -->
 
 

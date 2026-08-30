@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"比样例少1？加1交了"*
+> *"复杂度分析：O(能过)"*
 <!-- quote-end -->
 
 

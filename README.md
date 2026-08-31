@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"串口打印治百病"*
+> *"用printf调试的人，内心都很强大"*
 <!-- quote-end -->
 
 

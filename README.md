@@ -4,6 +4,7 @@
 
 
 [![How To Ask Questions The Smart Way](https://img.shields.io/badge/README-提问的智慧-181717?logo=github&logoColor=white)](https://github.com/tvvocold/How-To-Ask-Questions-The-Smart-Way)
+[![Favorite Paper: Attention Is All You Need](https://img.shields.io/badge/Favorite_Paper-Attention_Is_All_You_Need-00599C?logo=arxiv&logoColor=white)](https://arxiv.org/abs/1706.03762)
 
 📫 yunlk@foxmail.com
 🎮 making a galgame · 📟 learning LABVIEW & STM32

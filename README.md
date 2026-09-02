@@ -11,7 +11,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"不要相信用户的输入"*
+> *"井1nclued 《i0straem>"*
 <!-- quote-end -->
 
 

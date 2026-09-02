@@ -10,7 +10,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"编译过了就别动它"*
+> *"int x = (printf("Oops"), 42);"*
 <!-- quote-end -->
 
 

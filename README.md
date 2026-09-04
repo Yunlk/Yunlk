@@ -43,7 +43,7 @@
 ![Claude Code](https://img.shields.io/badge/Claude_Code-000000?style=flat&logo=claudecode&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-412991?style=flat&logo=openai&logoColor=white)
 
-[![wakatime](https://wakatime.com/badge/user/4f2fd9f3-37f9-4131-b51c-c5e081a0d3e7.svg?v=340)](https://wakatime.com/@Yunlk)
+[![wakatime](https://wakatime.com/badge/user/4f2fd9f3-37f9-4131-b51c-c5e081a0d3e7.svg?v=341)](https://wakatime.com/@Yunlk)
 
 $$
 \Psi (x) =
@@ -58,7 +58,7 @@ $$
 
 **maimai DX Rating**
 
-<img src="https://dxrating.luoling.moe/api/genImage/yun5k?v=340" alt="舞萌 DX Rating" />
+<img src="https://dxrating.luoling.moe/api/genImage/yun5k?v=341" alt="舞萌 DX Rating" />
 
 **now playing**
 

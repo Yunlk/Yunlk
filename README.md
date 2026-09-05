@@ -11,7 +11,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"编译过了就别动它"*
+> *"硬件和软件的区别，在于一个能踢"*
 <!-- quote-end -->
 
 

@@ -11,7 +11,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"用printf调试的人，内心都很强大"*
+> *"摸鱼是生产力的一部分"*
 <!-- quote-end -->
 
 

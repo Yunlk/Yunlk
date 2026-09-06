@@ -11,7 +11,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"LED 亮了就别动了"*
+> *"复杂度分析：O(能过)"*
 <!-- quote-end -->
 
 

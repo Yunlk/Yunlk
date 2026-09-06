@@ -11,7 +11,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"该睡了，但 commit 还没 push"*
+> *"最好的性能优化是换一个更好的算法，其次是把循环展开"*
 <!-- quote-end -->
 
 

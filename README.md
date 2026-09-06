@@ -11,7 +11,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"我就改一行"*
+> *"该睡了，但 commit 还没 push"*
 <!-- quote-end -->
 
 

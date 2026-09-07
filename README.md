@@ -11,7 +11,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"井1nclued 《i0straem>"*
+> *"最好的加密算法是 rm -rf /"*
 <!-- quote-end -->
 
 

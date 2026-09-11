@@ -11,7 +11,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"Bug 不是错误，是未被文档化的特性"*
+> *"用printf调试的人，内心都很强大"*
 <!-- quote-end -->
 
 

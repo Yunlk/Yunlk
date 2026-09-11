@@ -11,7 +11,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"我就改一行"*
+> *"摸鱼是生产力的一部分"*
 <!-- quote-end -->
 
 

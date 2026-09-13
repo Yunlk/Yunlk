@@ -11,7 +11,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"比样例少1？加1交了"*
+> *"for(;;)"*
 <!-- quote-end -->
 
 

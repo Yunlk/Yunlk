@@ -11,7 +11,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"LED 亮了就别动了"*
+> *"这个项目的历史比我的职业生涯还长，而它还在用C89"*
 <!-- quote-end -->
 
 

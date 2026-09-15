@@ -11,7 +11,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"void leak() { malloc(1024); }"*
+> *"数据手册第37页有答案，但没人看到第37页"*
 <!-- quote-end -->
 
 

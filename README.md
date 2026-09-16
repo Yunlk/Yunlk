@@ -11,7 +11,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"int mian(void)"*
+> *"不要相信用户的输入"*
 <!-- quote-end -->
 
 

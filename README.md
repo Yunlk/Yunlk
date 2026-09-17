@@ -11,7 +11,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"Bug 不是错误，是未被文档化的特性"*
+> *"调了一小时，发现是 <=写成 <，加个等号，过了"*
 <!-- quote-end -->
 
 

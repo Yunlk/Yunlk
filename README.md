@@ -11,7 +11,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"井1nclued 《i0straem>"*
+> *"int x = (printf("Oops"), 42);"*
 <!-- quote-end -->
 
 

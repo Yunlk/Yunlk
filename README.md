@@ -11,7 +11,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"void leak() { malloc(1024); }"*
+> *"最好的性能优化是换一个更好的算法，其次是把循环展开"*
 <!-- quote-end -->
 
 

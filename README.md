@@ -11,7 +11,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"世界上只有两种语言：被人骂的和没人用的"*
+> *"void leak() { malloc(1024); }"*
 <!-- quote-end -->
 
 

@@ -11,7 +11,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"比样例少1？加1交了"*
+> *"用printf调试的人，内心都很强大"*
 <!-- quote-end -->
 
 

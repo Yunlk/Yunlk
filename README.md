@@ -7,7 +7,7 @@
 [![Favorite Paper: Attention Is All You Need](https://img.shields.io/badge/Favorite_Paper-Attention_Is_All_You_Need-00599C?logo=arxiv&logoColor=white)](https://arxiv.org/abs/1706.03762)
 
 📫 yunlk@foxmail.com
-🎮 making a galgame · 📟 learning LABVIEW & STM32
+🎮 making a galgame · 📟 learning STM32 · 🎵 charting for maimai
 🐒 recovering vibecoder
 
 <!-- quote-start -->

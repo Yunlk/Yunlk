@@ -11,7 +11,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"数据手册第37页有答案，但没人看到第37页"*
+> *"复杂度分析：O(能过)"*
 <!-- quote-end -->
 
 

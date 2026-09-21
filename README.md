@@ -11,7 +11,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"编译过了就别动它"*
+> *"最好的加密算法是 rm -rf /"*
 <!-- quote-end -->
 
 

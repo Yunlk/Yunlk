@@ -11,7 +11,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"串口打印治百病"*
+> *"编译过了就别动它"*
 <!-- quote-end -->
 
 

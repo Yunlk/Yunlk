@@ -11,7 +11,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"调了一小时，发现是 <=写成 <，加个等号，过了"*
+> *"用printf调试的人，内心都很强大"*
 <!-- quote-end -->
 
 

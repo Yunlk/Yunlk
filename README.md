@@ -11,7 +11,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"void leak() { malloc(1024); }"*
+> *"Bug 不是错误，是未被文档化的特性"*
 <!-- quote-end -->
 
 

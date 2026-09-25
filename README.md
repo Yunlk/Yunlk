@@ -11,7 +11,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"这个逻辑是谁写的？"*
+> *"数据手册第37页有答案，但没人看到第37页"*
 <!-- quote-end -->
 
 

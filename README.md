@@ -11,7 +11,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"不要相信用户的输入"*
+> *"世界上只有两种语言：被人骂的和没人用的"*
 <!-- quote-end -->
 
 

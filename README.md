@@ -11,7 +11,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"int mian(void)"*
+> *"这题我O(n²)能过，因为n ≤ 10"*
 <!-- quote-end -->
 
 

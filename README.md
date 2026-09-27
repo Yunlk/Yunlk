@@ -11,7 +11,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"//This code is garbage"*
+> *"复杂度分析：O(能过)"*
 <!-- quote-end -->
 
 

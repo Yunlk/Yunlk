@@ -11,7 +11,7 @@
 🐒 recovering vibecoder
 
 <!-- quote-start -->
-> *"比样例少1？加1交了"*
+> *"最好的加密算法是 rm -rf /"*
 <!-- quote-end -->
 
 

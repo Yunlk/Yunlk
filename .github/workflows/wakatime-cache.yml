@@ -1,0 +1,88 @@
+name: Cache Buster
+
+on:
+  schedule:
+    # 每天 2 次（UTC 02:00 / 14:00 = 北京时间 10:00 / 22:00）。改频率只改这一行。
+    - cron: '0 2,14 * * *'
+  workflow_dispatch:
+
+# 与 quote-updater 共用同一个并发组：两个自动化任务串行执行，永不互相抢推
+concurrency:
+  group: readme-automation
+  cancel-in-progress: false
+
+jobs:
+  bump:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Bump cache versions
+        run: |
+          import re
+
+          with open('README.md', 'r', encoding='utf-8') as f:
+              content = f.read()
+
+          changed = False
+
+          # WakaTime badge
+          m = re.search(r'wakatime\.com/badge/user/([^"?]+)\.svg\?v=(\d+)', content)
+          if m:
+              uid, v = m.group(1), int(m.group(2))
+              content = content.replace(
+                  f'wakatime.com/badge/user/{uid}.svg?v={v}',
+                  f'wakatime.com/badge/user/{uid}.svg?v={v + 1}'
+              )
+              print(f'Bumped WakaTime: v{v} → v{v + 1}')
+              changed = True
+
+          # maimai DX Rating
+          m = re.search(r'dxrating\.luoling\.moe/api/genImage/([^"?]+)\?v=(\d+)', content)
+          if m:
+              user, v = m.group(1), int(m.group(2))
+              content = content.replace(
+                  f'dxrating.luoling.moe/api/genImage/{user}?v={v}',
+                  f'dxrating.luoling.moe/api/genImage/{user}?v={v + 1}'
+              )
+              print(f'Bumped maimai: v{v} → v{v + 1}')
+              changed = True
+
+          if not changed:
+              print('Nothing to bump, exiting.')
+              exit(0)
+
+          with open('README.md', 'w', encoding='utf-8') as f:
+              f.write(content)
+        shell: python
+
+      # 静默提交：如果 HEAD 已经是自动化提交，就 amend 复用同一条，
+      # 历史里永远只占 1 条，不再每次运行新增提交。
+      - name: Commit and push (rolling amend)
+        env:
+          BRANCH: ${{ github.ref_name }}
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add README.md
+          if git diff --cached --quiet; then
+            echo "README unchanged, nothing to commit."
+            exit 0
+          fi
+
+          git fetch origin "$BRANCH"
+          if [ "$(git log -1 --pretty=%an)" = "github-actions[bot]" ]; then
+            git commit --amend -m "🤖 auto update [skip ci]"
+            git push --force-with-lease origin "HEAD:$BRANCH"
+            echo "Amended the existing automation commit (no new commit added)."
+          else
+            git commit -m "🤖 auto update [skip ci]"
+            git push origin "HEAD:$BRANCH"
+            echo "Created a new automation commit on top of your latest commit."
+          fi

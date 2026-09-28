@@ -71,7 +71,6 @@ $$
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Yunlk.Yunlk)
 [![GitHub Roast 评分徽章](https://ghfind.com/api/badge/yunlk?lang=zh)](https://ghfind.com/u/yunlk?ref=badge)
-![OS](https://img.shields.io/badge/OS-macOS%20Monterey-informational?logo=apple&logoColor=white)
 
 </div>
 
